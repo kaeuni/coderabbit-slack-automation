@@ -1,0 +1,1 @@
+# CodeRabbit Slack Automation
